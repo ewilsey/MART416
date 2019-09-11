@@ -1,11 +1,11 @@
 # MART416
 
-Stranded
+<h1><u><b>Stranded</b></u></h1>
 Written by
-Eric Wilsey
+<h2>Eric Wilsey</h2>
 
 This is the script I will be using for my animation.
-The original will be uploaded and edited over time. 
+The original will be uploaded and edited over time.
 
 
 Production Studio Repository
