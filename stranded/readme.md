@@ -5,6 +5,7 @@ Written by
 Eric Wilsey
 
 This is the script I will be using for my animation.
+The original will be uploaded and edited over time. 
 
 
 Production Studio Repository
