@@ -8,13 +8,9 @@ This is the script I will be using for my animation.
 The original will be uploaded and edited over time.
 
 9/10 notes:
-Created "stranded" folder with the following contents:
-          index.html
-          readme.html
-          sounds.html
-          page1.html
-          
-Updated page1.html with current page 1 of Stranded script.
+Stored Page 1 of Stranded script to page1.html
+
+9/11 notes:
 
 
 
