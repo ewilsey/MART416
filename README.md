@@ -20,6 +20,6 @@ Created: MART416/stranded/
 
 #9/11 notes:
 Added site navigation.
-Replaced:
-          stranded/index.html -> stranded/stranded.html
-Updated stranded/readme.md file
+Replaced: stranded/index.html -> stranded/stranded.html
+Updated:  stranded/readme.md file
+Created: page2.html
