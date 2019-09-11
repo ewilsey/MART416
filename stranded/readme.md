@@ -1,4 +1,5 @@
 # MART416
+<This content is the property of Eric J Wilsey>
 
 <h1><u><b>Stranded</b></u></h1>
 Written by

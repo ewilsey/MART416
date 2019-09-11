@@ -1,5 +1,4 @@
 # MART416
-
 <This content is the property of Eric J Wilsey>
 
 Production Studio Repository
@@ -26,4 +25,4 @@ Created: page2.html
 
 #ToDo:
 Match sub pages to main page css.
-Organize site navigation. 
+Organize site navigation.
