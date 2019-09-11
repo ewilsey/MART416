@@ -23,3 +23,7 @@ Added site navigation.
 Replaced: stranded/index.html -> stranded/stranded.html
 Updated:  stranded/readme.md file
 Created: page2.html
+
+#ToDo:
+Match sub pages to main page css.
+Organize site navigation. 
