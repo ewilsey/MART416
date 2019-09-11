@@ -4,11 +4,12 @@
 Written by
 <h2>Eric Wilsey</h2>
 
-This is the script I will be using for my animation.
-The original will be uploaded and edited over time.
+This is the readme file for the script portion of my production studio animation.
+The original script will be uploaded and edited over time.
 
 9/10 notes:
-Stored Page 1 of Stranded script to page1.html
+Uploaded:
+Page 1
 
 9/11 notes:
 
