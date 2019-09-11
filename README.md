@@ -26,3 +26,5 @@ Created: page2.html
 #ToDo:
 Match sub pages to main page css.
 Organize site navigation.
+Presentation Due - 9/18
+[Link to Presentation requirements](https://moodle.umt.edu/course/view.php?id=28576#section-2)
