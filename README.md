@@ -13,15 +13,19 @@ Created: MART416/stranded/
           index.html
           readme.md
           sounds.html
-          page1.html
+          page1.html - page7.html
           scripts/script.js
           styles/style.css
 
 #9/11 notes:
-Added site navigation.
+Added: site navigation.
 Replaced: stranded/index.html -> stranded/stranded.html
 Updated:  stranded/readme.md file
-Created: page2.html
+Uploaded: page2.html
+
+#9/12 notes:
+Updated: stranded/pages 1-4
+Uploaded: page3.html - page4.html(top of page)
 
 #ToDo:
 Match sub pages to main page css.
