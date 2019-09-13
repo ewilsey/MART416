@@ -16,6 +16,10 @@ Page 1
 Uploaded:
 Page 2
 
+9/12 notes:
+Uploaded:
+Page 3 - Major edits to the order of Pages 3 and 4. Scene order [BACD] then
+becomes [ABCD] (See original script for details.)
 
 Production Studio Repository
 Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
