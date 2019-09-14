@@ -33,6 +33,6 @@ Uploaded: page4.html (full page w/ edits)
 
 #ToDo:
 Match sub pages to main page css.
-Organize site navigation.
+Organize buttons
 Presentation Due - 9/18
 [Link to Presentation requirements](https://moodle.umt.edu/course/view.php?id=28576#section-2)
