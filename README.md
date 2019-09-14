@@ -2,7 +2,7 @@
 <This content is the property of Eric J Wilsey>
 
 Production Studio Repository
-Files updated as necessary.
+Files updated as needed.
 
 Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
 
