@@ -28,7 +28,9 @@ Updated: stranded/pages 1-4
 Uploaded: page3.html - page4.html(top of page)
 
 #9/14 notes:
-added site navigation to stranded.html
+Added: site navigation to stranded.html
+Uploaded: page4.html (full page w/ edits)
+
 #ToDo:
 Match sub pages to main page css.
 Organize site navigation.
