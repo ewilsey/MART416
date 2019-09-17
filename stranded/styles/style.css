@@ -3,3 +3,7 @@ body {
   color: dimgray;
   font-family: serif;
 }
+
+h1  {
+  text-align: center;
+}
