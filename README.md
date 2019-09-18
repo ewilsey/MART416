@@ -46,3 +46,16 @@ Buttons CSS
 Organization
 Images - add scene location photos
 Sounds - add test sounds, super collider sonic sounds
+
+#9/18 Presentation notes:
+Daylin - 2-5 min short stop motion film. Teenage girl, city, relationship b/t
+audience and characters in that time. Contrasting tones of blue/orange, dif
+lighting, similar to Coraline. Stop motion puppets/set. Reading Stop-motion
+Animation book, borrowed by M. Shroegen. Wood armature, clay hands w/epoxy puddy,
+foam head, bead eyes like Coraline. Armature wires. Skin - smooth, realistic.
+Helped by scultper/anatomy sister. Gowned woman, wandering city streets, blue lights,
+warmer oranges rise from underneath, identicle stop motion puppet greets her. She's
+accepting a new rebirthed version of herself. Will document process. Wooden table,
+center cut, attaches armatures via screws. Experience - animation 1 -> made
+romantic teddy bear stop motion. Inspirations: Chicken Run, Tim Burton films, Kubo
+Youtube animations. Significance- Lyca Studios = dream job. 
