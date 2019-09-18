@@ -31,6 +31,15 @@ Uploaded: page3.html - page4.html(top of page)
 Added: site navigation to stranded.html
 Uploaded: page4.html (full page w/ edits)
 
+#9/16 notes:
+Created: projectProposal.html
+
+#9/17 notes:
+Updated: projectProposal.html
+Fixed: site navigation errors
+       links to CSS
+       
+
 #ToDo:
 Match sub pages to main page css.
 Organize buttons
