@@ -46,6 +46,8 @@ Buttons CSS
 Organization
 Images - add scene location photos
 Sounds - add test sounds, super collider sonic sounds
+Multi-medium transitions, from white to sketch to color to real picture. Can be
+mixed. 3D - 2D and back, screen halved L/R; T/B.
 
 #9/18 Presentation notes:
 Daylin - 2-5 min short stop motion film. Teenage girl, city, relationship b/t
@@ -59,3 +61,19 @@ accepting a new rebirthed version of herself. Will document process. Wooden tabl
 center cut, attaches armatures via screws. Experience - animation 1 -> made
 romantic teddy bear stop motion. Inspirations: Chicken Run, Tim Burton films, Kubo
 YouTube animations. Significance- Lyca Studios = dream job.
+
+Lindsay- Balley animation, no dialogue, plays to music. Dancer, ghost, bear. Cute.
+
+Erika- Scary 2-5 min nightmare animation. Jurji Ito inspired. Tomie, Uzimaki,
+Satoshi Kan. Birdboy. Lumpy Touch, Emily Carrol. Thinks I need to check out
+##Gerald's Game.
+
+Griztown- formerly StreetBrew, redesigned to be a user friendly way to map
+local events. Events expire upon end-dates, keeps app up-to-date. Goals:
+marketable app w/ mock ups. Fulfillment: learns how to make apple apps within
+set criteria. Like Google, Instagram, Snapchat and more. Will advertise for
+local businesses etc. Will start as a local app, prove concept before becoming
+a global app. First Friday could be an example of an event to promote. Can plan
+routes and times for visiting event.
+
+Kaitlin- The Office of Dairy Queen. 
