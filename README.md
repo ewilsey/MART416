@@ -6,6 +6,7 @@ Files updated as needed.
 
 Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
 
+
 #9/10 notes:
 Created: MART416/index.html.
 Created: MART416/readme.md.
@@ -38,10 +39,10 @@ Created: projectProposal.html
 Updated: projectProposal.html
 Fixed: site navigation errors
        links to CSS
-       
+
 
 #ToDo:
-Match sub pages to main page css.
-Organize buttons
-Presentation Due - 9/18
-[Link to Presentation requirements](https://moodle.umt.edu/course/view.php?id=28576#section-2)
+Buttons CSS
+Organization
+Images - add scene location photos
+Sounds - add test sounds, super collider sonic sounds
