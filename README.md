@@ -76,4 +76,7 @@ local businesses etc. Will start as a local app, prove concept before becoming
 a global app. First Friday could be an example of an event to promote. Can plan
 routes and times for visiting event.
 
-Kaitlin- The Office of Dairy Queen. 
+Kaitlin- Wants to be a film editor. The Office of Dairy Queen called The
+Creamery. Pilot episode  20-30 minute film. Daily life and drama of Dairy Queen
+employees. Will use plants instead of actual customers to avoid consent. Does
+not have permission to film. Alternate ideas- Mung New Year- San Fran.   
