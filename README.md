@@ -3,12 +3,12 @@
 Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
 
 Production Studio Repository
-Files updated as needed.
+#Files updated as needed.
 
 #9/10 notes:
-Created: MART416/index.html.
-Created: MART416/readme.md.
-Created: MART416/stranded/
+Create: MART416/index.html.
+Create: MART416/readme.md.
+Create: MART416/stranded/
           index.html
           readme.md
           sounds.html
@@ -17,43 +17,48 @@ Created: MART416/stranded/
           styles/style.css
 
 #9/11 notes:
-Added: site navigation.
-Replaced: stranded/index.html -> stranded/stranded.html
-Updated:  stranded/readme.md file
-Uploaded: page2.html
+Add: site navigation
+Replace: stranded/index.html -> stranded/stranded.html
+Update:  stranded/readme.md file
+Upload: page2.html
 
 #9/12 notes:
-Updated: stranded/pages 1-4
-Uploaded: page3.html - page4.html(top of page)
+Update: stranded/pages 1-4
+Upload: page3.html - page4.html(top of page)
 
 #9/14 notes:
-Added: site navigation to stranded.html
-Uploaded: page4.html (full page w/ edits)
+Add: site navigation to stranded.html
+Uploade: page4.html (full page w/ edits)
 
 #9/16 notes:
-Created: projectProposal.html
+Create: projectProposal.html
 
 #9/17 notes:
-Updated: projectProposal.html
-Fixed: site navigation errors
+Update: projectProposal.html
+Fix: site navigation errors
        links to CSS
 
+
 #9/21 notes:
-Images: add scene location photos; test photos from Roman Cr.
+Upload: imgs scene reference photos; test photos from Roman Cr
 
 #9/24 notes:
-Created: Color pallet; Test colors based on test photos.
+Create: Color pallet; Test colors based on test photos
 
 #9/28 notes:
-Updated: Script changes to physical copy.
+Update: Script changes to physical copy
 
 #10/9 notes:
-Created: Background images in Art Rage from test photos.
+Create: Background images in Art Rage from test photos
+Update: images.html
 
 #10/10 notes:
-Added: Background images into imgs folder.
-Update: From this point forward original images will end in Ref.jpg.
-        Images
+Upload: Background images into imgs folder
+Update: photos now end in Ref.jpg
+        images.html
+Fixed: Image naming issue
+
+
 #ToDo:
 Buttons CSS
 Organization - Always
