@@ -1,11 +1,9 @@
 # MART416
 <This content is the property of Eric J Wilsey>
+Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
 
 Production Studio Repository
 Files updated as needed.
-
-Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
-
 
 #9/10 notes:
 Created: MART416/index.html.
@@ -52,14 +50,13 @@ Updated: Script changes to physical copy.
 #10/9 notes:
 Created: Background images in Art Rage from test photos.
 
-10/10 notes:
+#10/10 notes:
 Added: Background images into imgs folder.
-Update: From this point forward original images will end in Ref.jpg. 
-
+Update: From this point forward original images will end in Ref.jpg.
+        Images
 #ToDo:
 Buttons CSS
-Organization
-
+Organization - Always
 Sounds - add test sounds, super collider sonic sounds
 Multi-medium transitions, from white to sketch to color to real picture. Can be
 mixed. 3D - 2D and back, screen halved L/R; T/B.
