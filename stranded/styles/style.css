@@ -5,6 +5,8 @@ body {
   padding: 0;
   color: SeaShell;
   font-family: serif;
+  max-width: 960px;
+
 }
 
 h1  {
