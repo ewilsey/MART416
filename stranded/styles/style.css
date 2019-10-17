@@ -6,7 +6,7 @@ body {
   color: SeaShell;
   font-family: serif;
   max-width: 100%;
-
+  min-width: 10%;
 }
 
 h1  {
