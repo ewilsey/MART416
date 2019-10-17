@@ -7,6 +7,8 @@ body {
   font-family: serif;
   max-width: 100%;
   min-width: 10%;
+  max-height: 100%;
+  min-height: 10%;
 }
 
 h1  {
