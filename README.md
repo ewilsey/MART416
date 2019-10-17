@@ -58,6 +58,19 @@ Update: photos now end in Ref.jpg
         images.html
 Fixed: Image naming issue
 
+#10/12
+Background: Trees
+
+#10/14
+Background: Trees cont.
+
+#10/16
+
+Background images
+
+#10/17
+
+
 
 #ToDo:
 Buttons CSS
