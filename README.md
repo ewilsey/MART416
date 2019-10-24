@@ -58,19 +58,14 @@ Update: photos now end in Ref.jpg
         images.html
 Fixed: Image naming issue
 
-#10/12
-Background: Trees
+#10/12 - 10/16
+Animation: Background - trees, more roadside
 
-#10/14
-Background: Trees cont.
+#10/17 -10/24
+Update: CSS - testing, layout.
 
-#10/16
-
-Background images
-
-#10/17
-
-
+#10/24
+Update: Site Navigation - Buttons added to Site Navigation
 
 #ToDo:
 Buttons CSS
