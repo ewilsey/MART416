@@ -65,7 +65,7 @@ Animation: Background - trees, more roadside
 Update: CSS - testing, layout.
 
 #10/24
-Update: Site Navigation - Buttons added to Site Navigation
+Update: Buttons - color, hover
 
 #ToDo:
 Buttons CSS
