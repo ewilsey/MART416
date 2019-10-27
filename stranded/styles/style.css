@@ -4,7 +4,6 @@
   z-index: -1;
   background-color: #394538; /* Student Green */
   background-image: linear-gradient(#000000,#708090); /* Black, Slate Gray */
-  color: #fff5ee; /* Seashell */
 }
 
 h1  {
@@ -26,9 +25,9 @@ li{
 }
 
 .button {
-  background-color: #8a0303; /* Blood Red */
   border: none;
-  color: #ffffff;/* White */
+  background-color: #8a0303; /* Blood Red */
+  color: #fff5ee; /* Seashell */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -38,6 +37,6 @@ li{
 
 }
 .button:hover {
-  background-color: #555555;/* Black */
-  color: #ffffff;/* White */
+  background-color: #3f0101;/* Very Dark Red */
+  color: #fff5ee; /* Seashell */
 }
