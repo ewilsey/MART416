@@ -1,8 +1,6 @@
 body {
   background-color: #cccccc; /* Grey */
   background-image: linear-gradient(#cccccc,#555555); /* Gray, Black */
-  margin: 20px;
-  padding: 0;
   color: #fff5ee; /* Seashell */
 }
 
