@@ -1,9 +1,9 @@
 body {
-  background-color: #cccccc;
-  background-image: linear-gradient(darkgrey,lightgrey);
+  background-color: #cccccc; /* Grey */
+  background-image: linear-gradient(darkgray,lightgray);
   margin: 20px;
   padding: 0;
-  color: SeaShell;
+  color: #fff5ee; /* Seashell */
   font-family: serif;
   max-width: 100%;
   min-width: 10%;
@@ -29,7 +29,7 @@ li{
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
-  color: white;
+  color: #ffffff;/* White */
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -37,11 +37,11 @@ li{
   cursor: pointer;
 }
 .button:hover {
-  background-color: black;
-  color: white;
+  background-color: #555555;/* Black */
+  color: #ffffff;/* White */
 }
 
 .button2 {background-color: #008CBA;} /* Blue */
 .button3 {background-color: #f44336;} /* Red */
-.button4 {background-color: #e7e7e7; color: black;} /* Gray */
+.button4 {background-color: #e7e7e7; color: #555555;} /* Gray;Black */
 .button5 {background-color: #555555;} /* Black */
