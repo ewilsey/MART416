@@ -65,7 +65,11 @@ Animation: Background - trees, more roadside
 Update: CSS - testing, layout.
 
 #10/24
-Update: Buttons - color, hover
+Update: Nav Buttons - added color, hover
+
+#10/26
+
+CSS: Nav Buttons - organized, fixed position
 
 #ToDo:
 Buttons CSS
