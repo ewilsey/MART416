@@ -49,17 +49,16 @@ Create: Color pallet; Test colors based on test photos
 Update: Script changes to physical copy
 
 #10/9 notes:
-Create: Background images in Art Rage from test photos
+Create: Background images via Art Rage
 Update: images.html
 
 #10/10 notes:
-Upload: Background images into imgs folder
-Update: photos now end in Ref.jpg
-        images.html
-Fixed: Image naming issue
+Upload: Background imgs - imgs folder
+Update: photos now end in Ref.jpg (images.html)
+Fixed: img naming issue
 
 #10/12 - 10/16
-Animation: Background - trees, more roadside
+Animation: Background - trees, more roadside via Art Rage
 
 #10/17 -10/24
 Update: CSS - testing, layout.
@@ -69,7 +68,7 @@ Update: Nav Buttons - added color, hover
 
 #10/26
 
-CSS: Nav Buttons - organized, fixed position
+CSS: Nav Buttons - organized, fixed position (index.html)
 
 #ToDo:
 Buttons CSS
