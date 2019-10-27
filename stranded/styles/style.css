@@ -1,4 +1,7 @@
 .navBar {
+  width: 100%;
+  height: 100px;
+  z-index: -1;
   background-color: #394538; /* Student Green */
   background-image: linear-gradient(#000000,#708090); /* Black, Slate Gray */
   color: #fff5ee; /* Seashell */
@@ -9,11 +12,13 @@ h1  {
 }
 
 ul {
+  position: absolute;
+  top: 48px;
   list-style-type: none;
   overflow: hidden;
   margin: 0;
   padding: 0;
-  background-color: #555555; /* Black */
+  background-color: #708090; /* Black */
 }
 
 li{
