@@ -16,7 +16,8 @@ h1  {
 }
 
 ul {
-  overflow: hidden;  
+  list-style-type: none;
+  overflow: hidden;
 }
 
 .button {
