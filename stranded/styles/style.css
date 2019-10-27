@@ -1,6 +1,6 @@
 body {
   background-color: #cccccc; /* Grey */
-  background-image: linear-gradient(#cccccc,#555555); /* Gray, Black */
+  background-image: linear-gradient(#555555,#708090); /* Black, Slate Gray */
   color: #fff5ee; /* Seashell */
 }
 
@@ -13,6 +13,7 @@ ul {
   overflow: hidden;
   margin: 0;
   padding: 0;
+  background-color: #555555; /* Black */
 }
 
 li{
@@ -20,7 +21,7 @@ li{
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #8a0303; /* Blood Red */
   border: none;
   color: #ffffff;/* White */
   text-align: center;
@@ -29,13 +30,9 @@ li{
   display: block;
   font-size: 16px;
   cursor: pointer;
+
 }
 .button:hover {
   background-color: #555555;/* Black */
   color: #ffffff;/* White */
 }
-
-.button2 {background-color: #008CBA;} /* Blue */
-.button3 {background-color: #f44336;} /* Red */
-.button4 {background-color: #e7e7e7; color: #555555;} /* Gray;Black */
-.button5 {background-color: #555555;} /* Black */
