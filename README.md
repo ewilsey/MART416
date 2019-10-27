@@ -76,3 +76,6 @@ Organization - Always
 Sounds - add test sounds, super collider sonic sounds
 Multi-medium transitions, from white to sketch to color to real picture. Can be
 mixed. 3D - 2D and back, screen halved L/R; T/B.
+
+#Questions:
+Can this site have a master page? 
