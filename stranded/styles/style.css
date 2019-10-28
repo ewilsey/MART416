@@ -17,7 +17,7 @@ ul {
   overflow: hidden;
   margin: 0;
   padding: 0;
-  background-color: #708090; /* Black */
+  background-color: #8a0303; /* Blood Red */
 }
 
 li{
@@ -26,7 +26,6 @@ li{
 
 .button {
   border: none;
-  background-color: #8a0303; /* Blood Red */
   color: #fff5ee; /* Seashell */
   text-align: center;
   padding: 14px 16px;
