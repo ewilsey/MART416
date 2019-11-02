@@ -66,9 +66,10 @@ Update: CSS - testing, layout.
 #10/24
 Update: Nav Buttons - added color, hover
 
-#10/26
+#10/26-11/2
 
 CSS: Nav Buttons - organized, fixed position (index.html)
+
 
 #ToDo:
 Buttons CSS
@@ -78,4 +79,4 @@ Multi-medium transitions, from white to sketch to color to real picture. Can be
 mixed. 3D - 2D and back, screen halved L/R; T/B.
 
 #Questions:
-Can this site have a master page? 
+Can this site have a master page?

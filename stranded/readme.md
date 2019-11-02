@@ -26,3 +26,6 @@ Page 4- Top of page.
 Page 4 - completed
 Production Studio Repository
 Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
+
+#11/2 notes:
+CSS added
