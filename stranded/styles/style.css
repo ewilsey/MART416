@@ -18,11 +18,11 @@ background-color:black;
 }
 
 #bar1 {
-  transform: translateY(-4px);
+  transform: translateY(-12px);
 }
 
 #bar3 {
-  transform: translateY(4px);
+  transform: translateY(12px);
 }
 
 .nav li a{
@@ -77,7 +77,7 @@ background-color:black;
 }
 
 .change #bar1{
-  transform: translateX(12px) translateY(4px) rotatez(90deg);
+  transform: translateX(12px) translateY(12px) rotatez(90deg);
 }
 
 .change #bar2{
@@ -85,7 +85,7 @@ background-color:black;
 }
 
 .change #bar3{
-  transform: translateX(-12px) translateY(-6px) rotatez(90deg);
+  transform: translateX(-12px) translateY(-12px) rotatez(90deg);
 }
 
 .change{
