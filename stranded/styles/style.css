@@ -1,15 +1,14 @@
 body{
-background-color:black;
+
 }
 
-#menu {
-  /*background-color:darkred;*/
+#menu{
   width:35px;
   height:35px;
   margin:30px 0 20px 20px;
   cursor:pointer;
   }
-.bar {
+.bar{
   height: 7px;
   width: 100%;
   background-color:darkred;
@@ -17,11 +16,11 @@ background-color:black;
   border-radius: 5px;
 }
 
-#bar1 {
+#bar1{
   transform: translateY(-6px);
 }
 
-#bar3 {
+#bar3{
   transform: translateY(6px);
 }
 
@@ -90,4 +89,8 @@ background-color:black;
 
 .change{
   display: block;
+}
+
+h1  {
+  text-align: center;
 }
