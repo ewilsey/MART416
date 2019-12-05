@@ -28,8 +28,21 @@
 #bar3 {
   transform: translateY(4px);
 }
+
 .change .bar{
   background-color: darkblue;
+}
+
+.change #bar1{
+  transform: rotatez(90deg);
+}
+
+.change #bar2{
+  transform: rotatez(90deg);
+}
+
+.change #bar3{
+  transform: rotatez(90deg);
 }
 /*
 h1  {
