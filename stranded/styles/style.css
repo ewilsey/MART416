@@ -34,7 +34,7 @@
 }
 
 .change #bar1{
-  transform: translateY(4px) rotatez(90deg);
+  transform: translateY(4px) rotatez(-90deg);
 }
 
 .change #bar2{
