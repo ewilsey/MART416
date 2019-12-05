@@ -38,7 +38,7 @@
 }
 
 .change #bar2{
-  transform: translateY(0) rotatez(90deg);
+  transform: rotatez(90deg);
 }
 
 .change #bar3{
