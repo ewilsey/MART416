@@ -5,71 +5,6 @@ Base URL for site:[Main Site](https://ewilsey.github.io/MART416)
 Production Studio Repository
 #Files updated as needed.
 
-#9/10 notes:
-Create: MART416/index.html.
-Create: MART416/readme.md.
-Create: MART416/stranded/
-          index.html
-          readme.md
-          sounds.html
-          page1.html - page7.html
-          scripts/script.js
-          styles/style.css
-
-#9/11 notes:
-Add: site navigation
-Replace: stranded/index.html -> stranded/stranded.html
-Update:  stranded/readme.md file
-Upload: page2.html
-
-#9/12 notes:
-Update: stranded/pages 1-4
-Upload: page3.html - page4.html(top of page)
-
-#9/14 notes:
-Add: site navigation to stranded.html
-Uploade: page4.html (full page w/ edits)
-
-#9/16 notes:
-Create: projectProposal.html
-
-#9/17 notes:
-Update: projectProposal.html
-Fix: site navigation errors
-       links to CSS
-
-
-#9/21 notes:
-Upload: imgs scene reference photos; test photos from Roman Cr
-
-#9/24 notes:
-Create: Color pallet; Test colors based on test photos
-
-#9/28 notes:
-Update: Script changes to physical copy
-
-#10/9 notes:
-Create: Background images via Art Rage
-Update: images.html
-
-#10/10 notes:
-Upload: Background imgs - imgs folder
-Update: photos now end in Ref.jpg (images.html)
-Fixed: img naming issue
-
-#10/12 - 10/16
-Animation: Background - trees, more roadside via Art Rage
-
-#10/17 -10/24
-Update: CSS - testing, layout.
-
-#10/24
-Update: Nav Buttons - added color, hover
-
-#10/26-11/2
-
-CSS: Nav Buttons - organized, fixed position (index.html)
-
 
 #ToDo:
 Buttons CSS
@@ -79,7 +14,7 @@ Multi-medium transitions, from white to sketch to color to real picture. Can be
 mixed. 3D - 2D and back, screen halved L/R; T/B.
 Create a website for the potato animation. Build a movie website for the animation.
 Start with site then portfolio.
-creative brain. color pallette. 
+creative brain. color pallette.
 
 #Questions:
 Can this site have a master page?
