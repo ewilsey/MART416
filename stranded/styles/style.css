@@ -28,6 +28,9 @@
 #bar3 {
   transform: translateY(4px);
 }
+.change .bar{
+  background-color: darkblue;
+}
 /*
 h1  {
   text-align: center;
