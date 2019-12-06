@@ -71,7 +71,7 @@ background-color:black;
   width: 0;
   height: 0;
   margin:30px 0 20px 20px;
-  background: radial-gradient(circle,darkred,red,blue,darkblue);
+  background: radial-gradient(circle,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green);
   border-radius: 50%;
   transition: 0.3s ease;
 }
