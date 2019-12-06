@@ -50,7 +50,7 @@ background-color:black;
 
 .nav li{
   list-style: none;
-  padding: 16px;
+  padding: 12px;
 }
 
 .nav{
@@ -73,7 +73,7 @@ background-color:black;
   margin:30px 0 20px 20px;
   background: radial-gradient(circle,orange,darkorange,red,red,darkred,darkred);
   border-radius: 50%;
-  transition: 0.3s ease;
+  transition: 0.1s ease;
 }
 
 #menu-bar{
