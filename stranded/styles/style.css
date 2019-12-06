@@ -60,34 +60,34 @@ background-color:black;
   display:none;
 }
 
-.menu-bg, #menu-bar{
+.menuBg, #menuBar{
   top:0;
   left: 0;
   position: absolute;
 }
 
-.menu-bg{
+.menuBg{
   z-index: 1;
   width: 0;
   height: 0;
   margin:30px 0 20px 20px;
-  background: radial-gradient(circle,orange,darkorange,red,red,darkred,darkred);
+  background: radial-gradient(circle,orange,darkOrange,red,red,darkRed,darkRed);
   border-radius: 50%;
   transition: 0.1s ease;
 }
 
-#menu-bar{
+#menuBar{
   z-index: 2;
 }
 
-.change-bg{
+.changeBg{
   width: 666px;
   height:666px;
   transform: translate(-60%,-30%);
 }
 
 .change .bar{
-  background-color: darkred;
+  background-color: darkRed;
 }
 
 .change #bar1{
