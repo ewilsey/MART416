@@ -6,7 +6,7 @@ color:white;
 #menu{
   width:35px;
   height:35px;
-  margin:10px 0 10px 10px;
+  margin:10px 0 10px 11px;
   cursor:pointer;
   }
 
@@ -75,7 +75,7 @@ color:white;
   z-index: 1;
   width: 0;
   height: 0;
-  margin:30px 0 20px 20px;
+  margin:10px 0 10px 11px;
   background: radial-gradient(circle,orange,darkOrange,red,red,darkRed,darkRed);
   border-radius: 50%;
   transition: 0.1s ease;
@@ -96,19 +96,19 @@ color:white;
 }
 
 .change #bar1{
-  transform: translateX(13px) translateY(11px) rotatez(90deg);
+  transform: translateX(11px) translateY(11px) rotatez(90deg);
 }
 
 .change #bar2{
-  transform: translateX(7px) translateY(5px) rotateZ(90deg);
+  transform: translateX(5.5px) translateY(5px) rotateZ(90deg);
 }
 
 .change #bar3{
-  transform: translateX(1px) translateY(-1px) rotatez(90deg);
+  transform: translateX(0px) translateY(-1px) rotatez(90deg);
 }
 
 .change #bar4{
-  transform: translateX(-5px) translateY(-7px) rotatez(90deg);
+  transform: translateX(-6px) translateY(-7px) rotatez(90deg);
 }
 
 .change #bar5{
