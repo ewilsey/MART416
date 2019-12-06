@@ -1,6 +1,5 @@
 Body{
 background-color:black;
-color:white;
 }
 
 #menu{
@@ -121,4 +120,7 @@ color:white;
 
 h1  {
   text-align: center;
+}
+#Proposal{
+  text-align: left;
 }
