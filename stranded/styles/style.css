@@ -40,7 +40,7 @@ background-color:black;
 
 .nav li a{
   color: white;
-  font-size: 18px;
+  font-size: 19px;
   text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ background-color:black;
 
 .nav{
   padding: 0;
-  margin:0 20px;
+  margin:0 10px;
   transition: 0.3s ease;
   display:none;
 }
@@ -71,7 +71,7 @@ background-color:black;
   width: 0;
   height: 0;
   margin:30px 0 20px 20px;
-  background: radial-gradient(circle,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green,blue,purple,red,orange,yellow,green);
+  background: radial-gradient(circle,orange,darkorange,red,red,darkred,darkred);
   border-radius: 50%;
   transition: 0.3s ease;
 }
