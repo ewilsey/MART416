@@ -119,6 +119,14 @@ Body{
   display: block;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+
 h1  {
   text-align: center;
 }
