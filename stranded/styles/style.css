@@ -143,10 +143,10 @@ Body  {
 
 .proposal {
   text-align: left;
+  font-size: 22px;
 }
 
 .lblPp  {
   position: absolute;
   bottom: 50%;
-  left: 10%;
 }
