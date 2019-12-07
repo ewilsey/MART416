@@ -141,6 +141,12 @@ Body  {
   left: 50%
 }
 
+.lblTest  {
+  position: absolute;
+  bottom: 20%;
+  left: 50%
+}
+
 h1  {
   text-align: center;
 }
