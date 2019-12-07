@@ -1,77 +1,77 @@
-Body{
+Body  {
   color: white;
   background-color:dimGray;
 }
 
-#menu{
+#menu {
   width:35px;
   height:35px;
   margin:10px 0 10px 11px;
   cursor:pointer;
   }
 
-.bar{
+.bar  {
   height: 6px;
   width: 100%;
   display:block;
   border-radius: 5px;
 }
 
-#bar1{
+#bar1 {
   background-color: tan;
   transform: translateY(1px);
 }
 
-#bar2{
+#bar2 {
   background-color: limeGreen;
   transform: translateY(1px);
 }
 
-#bar3{
+#bar3 {
   background-color: yellow;
   transform: translateY(1px);
 }
 
-#bar4{
+#bar4 {
   background-color: darkred;
   transform: translateY(1.5px);
 }
 
-#bar5{
+#bar5 {
   background-color: tan;
   transform: translateY(1px);
 }
 
-.nav li a{
+.nav li a {
   color: white;
   font-size: 19px;
   text-decoration: none;
 }
 
-.nav li a:hover{
+.nav li a:hover {
   font-size: 21px;
   font-weight: bold;
 }
 
-.nav li{
+.nav li {
   list-style: none;
   padding: 12px;
 }
 
-.nav{
+.nav  {
   padding: 0;
   margin:0 20px;
   transition: 0.3s ease;
   display:none;
 }
 
-.menuBg, #menuBar{
+.menuBg, #menuBar {
   top:0;
   left: 0;
   position: absolute;
 }
 
-.menuBg{
+.menuBg {
   z-index: 1;
   width: 0;
   height: 0;
@@ -81,45 +81,50 @@ Body{
   transition: 0.1s ease;
 }
 
-#menuBar{
+#menuBar  {
   z-index: 2;
 }
 
-.changeBg{
+.changeBg {
   width: 666px;
   height:666px;
   transform: translate(-60%,-30%);
 }
 
-.change .bar{
+.change .bar  {
   background-color: darkRed;
 }
 
-.change #bar1{
+.change #bar1 {
   transform: translateX(11px) translateY(11px) rotatez(90deg);
 }
 
-.change #bar2{
+.change #bar2 {
   transform: translateX(5.5px) translateY(5px) rotateZ(90deg);
 }
 
-.change #bar3{
+.change #bar3 {
   transform: translateX(0px) translateY(-1px) rotatez(90deg);
 }
 
-.change #bar4{
+.change #bar4 {
   transform: translateX(-6px) translateY(-7px) rotatez(90deg);
 }
 
-.change #bar5{
+.change #bar5 {
   transform: translateX(-12px) translateY(-13px) rotatez(90deg);
 }
 
-.change{
+.change {
   display: block;
 }
 
-.center {
+.imgBg {
+  text-align: center;
+  color: white;
+}
+
+.imgBurger {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -130,9 +135,14 @@ Body{
   border-radius: 50%;
 }
 
+.lblBurger  {
+
+}
+
 h1  {
   text-align: center;
 }
-#Proposal{
+
+.Proposal {
   text-align: center;
 }
