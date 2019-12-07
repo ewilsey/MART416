@@ -141,6 +141,10 @@ Body  {
   left: 50%
 }
 
+.Proposal {
+  text-align: center;
+}
+
 .lblTest  {
   position: absolute;
   bottom: 20%;
@@ -148,9 +152,5 @@ Body  {
 }
 
 h1  {
-  text-align: center;
-}
-
-.Proposal {
   text-align: center;
 }
