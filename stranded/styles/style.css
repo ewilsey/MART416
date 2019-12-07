@@ -146,5 +146,7 @@ Body  {
 }
 
 .lblPp  {
-
+  position: absolute;
+  bottom: 80%;
+  left: 50%;
 }
