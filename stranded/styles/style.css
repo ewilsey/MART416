@@ -23,12 +23,12 @@ Body{
 }
 
 #bar2{
-  background-color: yellow;
+  background-color: green;
   transform: translateY(1px);
 }
 
 #bar3{
-  background-color: lightgreen;
+  background-color: yellow;
   transform: translateY(1px);
 }
 
