@@ -1,6 +1,5 @@
 Body  {
-  color: white;
-  background-color:dimGray;
+  background-color: dimGray;
 }
 
 #menu {
@@ -156,4 +155,10 @@ Body  {
 .lblPp  {
   position: absolute;
   bottom: 30%;
+}
+
+.burgerWP {
+  padding: 25px;
+  background: url("../imgs/hamburgerClosed.png");
+  background-repeat: repeat round;
 }
