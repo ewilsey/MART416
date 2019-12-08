@@ -143,12 +143,15 @@ Body  {
 
 .lbltxt {
   font-family: "Comic Sans MS", cursive, sans-serif;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
   font-size: 80px;
 }
 
 .proposal {
   text-align: left;
   font-size: 28px;
+  word-wrap: break-word;
 }
 
 .lblPp  {
