@@ -149,7 +149,6 @@ Body  {
 .proposal {
   text-align: left;
   font-size: 28px;
-
 }
 
 .lblPp  {
@@ -158,5 +157,6 @@ Body  {
 }
 
 .burgerWP {
-
+  background: url("../imgs/hamburgerClosed.png");
+  background-repeat: repeat;
 }
