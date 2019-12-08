@@ -159,9 +159,9 @@ Body  {
 }
 
 .burgerWP {
-  margin:40px 40px 40px 40px;
-  padding: 100%;
-  border: 2px stroke black;
+  margin: 1em;
+  padding: 1em;
+  border: 2px solid black;
   border-width: thick;
   background: url("../imgs/hamburgerClosed.png");
   background-repeat: round;
