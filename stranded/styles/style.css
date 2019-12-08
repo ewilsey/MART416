@@ -165,9 +165,9 @@ Body  {
 }
 
 .burgerWallpaper {
-  margin: 1em;
+  margin: 0 1em;
   padding: 100%;
-  border: 2px solid black;
+  border: 0.5px solid darkGray;
   border-width: thick;
   background: url("../imgs/hamburgerClosed.png");
   background-repeat: round;
