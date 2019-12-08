@@ -154,8 +154,8 @@ Body  {
 }
 
 .lblPp  {
-  position: absolute;
-  bottom: 30%;
+  position: relative;
+  top:10px;
 }
 
 .burgerWP {
