@@ -144,12 +144,12 @@ Body  {
 .lbltxt {
   font-family: "Comic Sans MS", cursive, sans-serif;
   text-shadow: 3px 3px black;
-  font-size: 80px;
+  font-size: 8vw;
 }
 
 .proposal {
   text-align: left;
-  font-size: 28vw;
+  font-size: 2vw;
 
 }
 
