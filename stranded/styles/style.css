@@ -158,9 +158,16 @@ Body  {
   top: 48px;
 }
 
+.containerBox {
+  max-width: 1920px;
+  max-height: 1080px;
+  min-width: 800px;
+  min-height: 400px;
+}
+
 .burgerWP {
   margin: 1em;
-  padding: 1em;
+  padding: 100%;
   border: 2px solid black;
   border-width: thick;
   background: url("../imgs/hamburgerClosed.png");
