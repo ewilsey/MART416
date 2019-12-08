@@ -155,11 +155,11 @@ Body  {
 
 .lblPp  {
   position: relative;
-  top:36px;
+  top: 36px;
 }
 
 .burgerWP {
-  padding:0;
+  padding: 100%;
   border: 2px stroke black;
   border-width: thick;
   background: url("../imgs/hamburgerClosed.png");
