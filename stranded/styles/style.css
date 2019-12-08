@@ -145,6 +145,7 @@ Body  {
   font-family: "Comic Sans MS", cursive, sans-serif;
   text-shadow: 3px 3px black;
   font-size: 8vw;
+  text-align: center bottom;
 }
 
 .proposal {
