@@ -159,7 +159,7 @@ Body  {
 }
 
 .burgerWP {
-  margin:48px;
+  margin:40px 40px 40px 40px;
   padding: 100%;
   border: 2px stroke black;
   border-width: thick;
