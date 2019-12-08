@@ -137,13 +137,19 @@ Body  {
 
 .lblBurger  {
   position: absolute;
-  bottom: 20%;
-  left: 50%
+  bottom: 15%;
+  left: 33%
+}
+
+.lbltxt {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 40px;
 }
 
 .proposal {
   text-align: left;
   font-size: 28px;
+
 }
 
 .lblPp  {
