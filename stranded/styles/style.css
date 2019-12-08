@@ -159,8 +159,4 @@ Body  {
 
 .burgerWP {
   background: url("../imgs/hamburgerClosed.png");
-  border: 2px solid black;
-  height: 100%;
-  width: 100%;
-  background-repeat: repeat;
 }
