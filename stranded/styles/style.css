@@ -161,5 +161,5 @@ Body  {
   padding: 1080px;
   border: 2px stroke black;
   background: url("../imgs/hamburgerClosed.png");
-  background-repeat: round;
+  background-repeat: space;
 }
