@@ -169,7 +169,7 @@ Body  {
   text-shadow: 1px 1px red;
 }
 
-.burgerWallpaper {
+.floorWood {
   background: url(../imgs/woodFloor.jpg) bottom repeat round;
   padding: 54px;
   text-align: center;
@@ -177,4 +177,13 @@ Body  {
   color: #8B5C23;
   /*text-shadow: 1px 1px #734A17;*/
   text-shadow: 1px 1px black;
+}
+
+.waveBlue {
+  background: url(../imgs/blueWave.jpg) bottom repeat round;
+  padding: 54px;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #075A73;
+  text-shadow: 1px 1px #065063;
 }
