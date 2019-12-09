@@ -164,7 +164,7 @@ Body  {
 }
 
 .burgerWallpaper {
-  background: url(../imgs/hamburgerClosedSm.png) right bottom no-repeat,url(../imgs/blanketPicnic.jpg) left top repeat;
+  background: url(../imgs/hamburgerClosedSm.png) right bottom no-repeat,url(../imgs/blanketPicnic.jpg) left top repeat round;
   padding: 54px;
   color: black;
 }
