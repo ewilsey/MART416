@@ -160,18 +160,19 @@ Body  {
 }
 
 .containerBox {
-  max-width: 100%;
-  max-height: 100%;
-  border: 0.5px dashed darkGray;
+  height: device-height;
+  width: device-width;
+  border: 0.5px groove darkGray;
   border-width: thin;
   margin: 1em 1em;
   padding: 1em;
+  background-clip: content-box;
 }
 
 .burgerWallpaper {
-  margin: 1em 1em;
+  margin: 0;
   padding: 100%;
   background: url("../imgs/hamburgerClosed.png");
-  background-repeat: round;
-  object-fit: scale-down;
+  background-repeat: repeat;
+  object-fit: cover;
 }
