@@ -172,7 +172,7 @@ Body  {
 .burgerWallpaper {
   margin: 0;
   padding: 100%;
-  background: url("../imgs/hamburgerClosed.png") no-repeat,url("../imgs/blanketPicnic.jpg") repeat;
+  background: url("../imgs/hamburgerClosed.png") right bottom no-repeat,url("../imgs/blanketPicnic.jpg") left top repeat;
 
 
 }
