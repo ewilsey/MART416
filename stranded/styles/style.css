@@ -160,19 +160,10 @@ Body  {
 }
 
 .containerBox {
-  height: device-height;
-  width: device-width;
-  border: 0.5px groove darkGray;
-  border-width: thin;
-  margin: 1em 1em;
-  padding: 1em;
-  background-clip: content-box;
+  
 }
 
 .burgerWallpaper {
-  margin: 0;
-  padding: 100%;
   background: url("../imgs/hamburgerClosed.png") right bottom no-repeat,url("../imgs/blanketPicnic.jpg") left top repeat;
-
-
+  padding: 15px;
 }
