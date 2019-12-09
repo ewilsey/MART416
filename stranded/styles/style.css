@@ -169,5 +169,8 @@ Body  {
 }
 
 .burgerWallpaper {
-
+  background: url(../imgs/woodFloor.jpg) left bottom repeat round;
+  padding: 54px;
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #E1E1E1;
 }
