@@ -175,5 +175,6 @@ Body  {
   text-align: center;
   font-family: "Lucida Console", Monaco, monospace;
   color: #8B5C23;
-  text-shadow: 1px 1px #734A17;
+  /*text-shadow: 1px 1px #734A17;*/
+  text-shadow: 1px 1px black;
 }
