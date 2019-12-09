@@ -160,10 +160,10 @@ Body  {
 }
 
 .containerBox {
-  
+
 }
 
 .burgerWallpaper {
-  background: url("../imgs/hamburgerClosed.png") right bottom no-repeat,url("../imgs/blanketPicnic.jpg") left top repeat;
+  background: url(../imgs/hamburgerClosed.png) right bottom no-repeat,url(../imgs/blanketPicnic.jpg) left top repeat;
   padding: 15px;
 }
